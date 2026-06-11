@@ -1,7 +1,7 @@
 # teacher-toolkit - 我的班級工具總專案
 
 ## 對話開始時請先讀
-進度與最近更動都在 Obsidian：`Obsidian Vault/teacher-toolkit/工作筆記.md`
+進度與最近更動都在 Obsidian：`secondbrain/teacher-toolkit/工作筆記.md`
 
 ## 工作模式
 - **加新工具**：對 Codex 說「我想做一個 XXX 工具」→ Codex 會建 `tools/<工具名>/` 子資料夾，並引導我完成
@@ -11,7 +11,7 @@
 ## 工作桌 + 三個家
 - GDrive 工作桌：`G:\我的雲端硬碟\GPTcodex資料夾\2026教學資料夾\teacher-toolkit\`（自動跨電腦同步）
 - GitHub repo：`ntccar01/teacher-toolkit`（公開，網頁的家）
-- Obsidian 駕駛艙：`C:\Users\User\Documents\Obsidian Vault\teacher-toolkit\工作筆記.md`（想法的家）
+- Obsidian 駕駛艙：`G:\我的雲端硬碟\secondbrain\teacher-toolkit\工作筆記.md`（想法的家）
 - Firebase 專案：`my-teaching-tools`（或之後指定的專案，資料的家）
 
 ## 工具清單
